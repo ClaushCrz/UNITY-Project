@@ -13,7 +13,7 @@ Template for the Map
 
 # =======================================
 Features Plan
-- [ ] Rotation Controller
+- [x] Rotation Controller
 
 Using Translate.EularAngle
 ![Smooth(1)](https://cdn.discordapp.com/attachments/346967448781717505/547290191136555028/Smooth_Transforming.PNG)
