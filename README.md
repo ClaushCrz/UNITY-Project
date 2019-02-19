@@ -22,6 +22,8 @@ Using Translate.EularAngle
 Coding Tutorial : Sebestial Lague : Character Creation (E07: Unity character controller)
 - https://www.youtube.com/watch?v=ZwD1UHNCzOc
 
+# ***************************************
+
 - [ ] Status Bar ( Prompt )
 
 For Design :
@@ -31,6 +33,8 @@ Brackeys : INVENTORY UI - Making an RPG in Unity (E05)
 For Coding :
 Brackeys : INVENTORY CODE - Making an RPG in Unity (E06)
 - https://www.youtube.com/watch?v=YLhj7SfaxSE&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7&index=7
+
+# ***************************************
 
 - [ ] Optional : Third Party Character Generator
 
