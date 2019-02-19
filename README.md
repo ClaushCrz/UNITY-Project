@@ -11,6 +11,7 @@ Due Date : 1st March 2019
 
 Features Plan
 - [ ] Rotation Controller
+- [x] using transform.eularAngles
 - [ ] Status Bar ( Prompt )
 - [ ] Optional : Third Party Character Generator
 
