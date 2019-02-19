@@ -2,7 +2,7 @@
 
 Design Plan
 - [ ] Complete the construction on 3 Cities
-- [x] Fire City
+- [ ] Fire City
 - [ ] Water City
 - [ ] Ice City
 
