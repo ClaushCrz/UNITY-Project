@@ -8,6 +8,7 @@ Design Plan
 
 Due Date : 1st March 2019
 
+![Pictures](https://cdn.discordapp.com/attachments/346967448781717505/547288359404306433/Template.png)
 
 Features Plan
 - [ ] Rotation Controller
