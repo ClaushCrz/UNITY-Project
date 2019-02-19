@@ -11,8 +11,8 @@ Due Date : 1st March 2019
 
 Features Plan
 - [ ] Rotation Controller
-- [x] Status Bar ( Prompt )
-- [ ] Optionaal : Third Party Character Generator
+- [ ] Status Bar ( Prompt )
+- [ ] Optional : Third Party Character Generator
 
 Due Date : 23 February 2019
 
