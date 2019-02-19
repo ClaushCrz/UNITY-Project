@@ -20,7 +20,7 @@ Using Translate.EularAngle
 ![Smooth(2)](https://cdn.discordapp.com/attachments/346967448781717505/547290189421215745/Smooth_Transforming_2.PNG)
 
 Coding Tutorial : Sebestial Lague : Character Creation (E07: Unity character controller)
-https://www.youtube.com/watch?v=ZwD1UHNCzOc
+- https://www.youtube.com/watch?v=ZwD1UHNCzOc
 
 - [ ] Status Bar ( Prompt )
 
