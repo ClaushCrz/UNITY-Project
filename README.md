@@ -22,11 +22,11 @@ Using Translate.EularAngle
 
 For Design :
 Brackeys : INVENTORY UI - Making an RPG in Unity (E05)
-https://www.youtube.com/watch?v=w6_fetj9PIw&index=7&t=0s&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7
+- https://www.youtube.com/watch?v=w6_fetj9PIw&index=7&t=0s&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7
 
 For Coding :
 Brackeys : INVENTORY CODE - Making an RPG in Unity (E06)
-https://www.youtube.com/watch?v=YLhj7SfaxSE&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7&index=7
+- https://www.youtube.com/watch?v=YLhj7SfaxSE&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7&index=7
 
 - [ ] Optional : Third Party Character Generator
 
