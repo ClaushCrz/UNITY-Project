@@ -39,7 +39,7 @@ Brackeys : INVENTORY CODE - Making an RPG in Unity (E06)
 
 # ***************************************
 
-- [ ] Optional : Third Party Character Generator
+- Update : https://drive.google.com/open?id=1uoQ5M89Qxx5E0eJ3c4hlJMy6xY-R7UQI <- Basic packs for weather to be functionable
 
 Due Date : 23 February 2019
 
