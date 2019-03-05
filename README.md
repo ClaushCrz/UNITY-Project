@@ -43,5 +43,5 @@ Brackeys : INVENTORY CODE - Making an RPG in Unity (E06)
 
 Due Date : 23 February 2019
 
- -Customized Characters : http://umawiki.secretanorak.com/Creating_a_customizable_prefab
-
+ - Customized Characters : http://umawiki.secretanorak.com/Creating_a_customizable_prefab
+ - UMA Starter Pack : https://drive.google.com/open?id=1EVFIUr8AfJq8DrzvLm8Wlt1ilDoYkpbD
